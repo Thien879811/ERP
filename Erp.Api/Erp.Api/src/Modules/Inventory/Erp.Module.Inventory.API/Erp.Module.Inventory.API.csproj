@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Erp.Module.Inventory.Application\Erp.Module.Inventory.Application.csproj" />
+    <ProjectReference Include="..\Erp.Module.Inventory.Infrastructure\Erp.Module.Inventory.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,464 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Infrastructure\\Erp.Module.Inventory.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Application.Shared\\Erp.Application.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Application.Shared\\Erp.Application.Shared.csproj",
+        "projectName": "Erp.Application.Shared",
+        "projectPath": "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Application.Shared\\Erp.Application.Shared.csproj",
+        "packagesPath": "C:\\Users\\LVL_TX2\\.nuget\\packages\\",
+        "outputPath": "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Application.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LVL_TX2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Domain.Shared\\Erp.Domain.Shared.csproj": {
+                "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Domain.Shared\\Erp.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Domain.Shared\\Erp.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Domain.Shared\\Erp.Domain.Shared.csproj",
+        "projectName": "Erp.Domain.Shared",
+        "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Domain.Shared\\Erp.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\LVL_TX2\\.nuget\\packages\\",
+        "outputPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LVL_TX2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Infrastructure.Shared\\Erp.Infrastructure.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Infrastructure.Shared\\Erp.Infrastructure.Shared.csproj",
+        "projectName": "Erp.Infrastructure.Shared",
+        "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Infrastructure.Shared\\Erp.Infrastructure.Shared.csproj",
+        "packagesPath": "C:\\Users\\LVL_TX2\\.nuget\\packages\\",
+        "outputPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Infrastructure.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LVL_TX2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Application.Shared\\Erp.Application.Shared.csproj": {
+                "projectPath": "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Application.Shared\\Erp.Application.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Application\\Erp.Module.Inventory.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Application\\Erp.Module.Inventory.Application.csproj",
+        "projectName": "Erp.Module.Inventory.Application",
+        "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Application\\Erp.Module.Inventory.Application.csproj",
+        "packagesPath": "C:\\Users\\LVL_TX2\\.nuget\\packages\\",
+        "outputPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LVL_TX2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Application.Shared\\Erp.Application.Shared.csproj": {
+                "projectPath": "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Application.Shared\\Erp.Application.Shared.csproj"
+              },
+              "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Domain\\Erp.Module.Inventory.Domain.csproj": {
+                "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Domain\\Erp.Module.Inventory.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Domain\\Erp.Module.Inventory.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Domain\\Erp.Module.Inventory.Domain.csproj",
+        "projectName": "Erp.Module.Inventory.Domain",
+        "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Domain\\Erp.Module.Inventory.Domain.csproj",
+        "packagesPath": "C:\\Users\\LVL_TX2\\.nuget\\packages\\",
+        "outputPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LVL_TX2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Domain.Shared\\Erp.Domain.Shared.csproj": {
+                "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Domain.Shared\\Erp.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Infrastructure\\Erp.Module.Inventory.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Infrastructure\\Erp.Module.Inventory.Infrastructure.csproj",
+        "projectName": "Erp.Module.Inventory.Infrastructure",
+        "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Infrastructure\\Erp.Module.Inventory.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\LVL_TX2\\.nuget\\packages\\",
+        "outputPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LVL_TX2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Infrastructure.Shared\\Erp.Infrastructure.Shared.csproj": {
+                "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\BuildingBlocks\\Erp.Infrastructure.Shared\\Erp.Infrastructure.Shared.csproj"
+              },
+              "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Application\\Erp.Module.Inventory.Application.csproj": {
+                "projectPath": "D:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.Application\\Erp.Module.Inventory.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

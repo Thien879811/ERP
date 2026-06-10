@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZcKZ5fYBz4=",
+  "success": true,
+  "projectFilePath": "d:\\WEB\\ERP\\Erp.Api\\Erp.Api\\src\\Modules\\Inventory\\Erp.Module.Inventory.API\\Erp.Module.Inventory.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LVL_TX2\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.17\\microsoft.aspnetcore.openapi.9.0.17.nupkg.sha512",
+    "C:\\Users\\LVL_TX2\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
